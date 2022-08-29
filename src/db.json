@@ -1,0 +1,2140 @@
+[
+  {
+    "_key": "11229113",
+    "_id": "FID_GFFBRTBH1649829709/11229113",
+    "_rev": "_eUHGoy6---",
+    "item_id": "a1612530-5ad5-433e-96d3-6ee69189decf",
+    "pos_item_id": "1248395144",
+    "selling_price": "2065",
+    "price": "2065.00",
+    "name": "Hyderabadi Signature Paneer Bucket Biryani",
+    "display_name": "Hyderabadi Signature Paneer Bucket Biryani",
+    "description": "From the Nizam's court to your bucket for the good times. Fragrant, slow dum cooked 23 spice Hyderabadi Biryani topped with tender chunks of juicy paneer cooked in our signature 23 spice blend Hyderabadi masala and garnished with crispy fried onions. Delectable bucket indeed :) [Comes with Mint Raita, Serves 8, 4 kg]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_06_11_15_27_52_Hyderabadi_paneer_1_.jpg"
+    ],
+    "category": "",
+    "subcategory": "#hangout Bucket Biryani",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "attribute_name": "veg",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 51.62
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 51.62
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true
+  },
+  {
+    "_key": "11229118",
+    "_id": "FID_GFFBRTBH1649829709/11229118",
+    "_rev": "_eUHGozW---",
+    "item_id": "f63685d4-3ba3-47e7-99f8-7dee7626d203",
+    "pos_item_id": "1248395154",
+    "selling_price": "1075",
+    "price": "1075.00",
+    "name": "Rustic Chettinad Paneer Family Pack Biryani",
+    "display_name": "Rustic Chettinad Paneer Family Pack Biryani",
+    "description": "Paneer x Chettinad in a family pack. 23 spice dum Biryani made with fragrant Basmati rice cooked over a slow flame topped with fresh chunks of Paneer tossed in a rustic Chettinad masala packed with flavor and fragrance of a curated spice blend. A mouth watering combination in a family pack :) [Comes with Mint Raita, Serves 4, 2 kg]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_06_11_15_11_37_Chettinad_paneer.jpg"
+    ],
+    "category": "",
+    "subcategory": "#eattogether Family Pack Biryani",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "attribute_name": "veg",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 26.88
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 26.88
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true
+  },
+  {
+    "_key": "11229123",
+    "_id": "FID_GFFBRTBH1649829709/11229123",
+    "_rev": "_eUHGozu---",
+    "item_id": "0692d3bd-a5a6-42e3-8250-44c2b8a90e08",
+    "pos_item_id": "1248029832",
+    "selling_price": "325",
+    "price": "325.00",
+    "name": "Rustic Chettinad Paneer Biryani Bowl",
+    "display_name": "Rustic Chettinad Paneer Biryani Bowl",
+    "description": "Paneer x Chettinad with 50% extra paneer. 23 spice dum Biryani made with fragrant Basmati rice cooked over a slow flame topped with fresh chunks of Paneer tossed in a rustic Chettinad masala packed with flavor and fragrance of a curated spice blend. A mouth watering combination in a bowl :) [Comes with Mint Raita, Serves 1, 500 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_06_02_22_45_36_Chettinad_Paneer_bowl.jpg"
+    ],
+    "category": "",
+    "subcategory": "Meat No Guilt Biryani Bowls",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "attribute_name": "veg",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 8.12
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 8.12
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true
+  },
+  {
+    "_key": "7780007",
+    "_id": "FID_GFFBRTBH1649829709/7780007",
+    "_rev": "_eUHGo0G---",
+    "item_id": "80adb56a-03a2-460f-ab21-2daffdcef97a",
+    "pos_item_id": "1240433948",
+    "selling_price": "565",
+    "price": "565.00",
+    "name": "Choose My VIP Double Paneer Biryani Combo [Serves 2]",
+    "display_name": "Choose My VIP Double Paneer Biryani Combo [Serves 2]",
+    "description": "Pick any 2 of our 23 Spice Hyderabadi Veg Biryanis served with Mint Raita along with a 750 ml refreshing beverage of your choice",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_12_16_53_05_Rcb_double.jpg"
+    ],
+    "category": "",
+    "subcategory": "VIP Exclusive Biryani Combos",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 14.12
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 14.12
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true,
+    "attribute_name": "veg"
+  },
+  {
+    "_key": "9361597",
+    "_id": "FID_GFFBRTBH1649829709/9361597",
+    "_rev": "_eUHGo0a---",
+    "item_id": "da847d87-e2d8-4778-883a-f55f70b05b94",
+    "pos_item_id": "1240037981",
+    "selling_price": "315",
+    "price": "315.00",
+    "name": "Bheemavarma Special Paneer Biryani Bowl",
+    "display_name": "Bheemavarma Special Paneer Biryani Bowl",
+    "description": "From our best minds to your plate with 50% extra paneer. Scrumptuous chunks of fresh paneer sauteed in our special masala laden with spices and flavors served on top of slow dum cooked, aromatic 23 spice Biryani that makes you drool. A must try bowl :) [Comes with Mint Raita, Serves 1, 500 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_12_17_01_19_Andhra_Paneer_bowl.jpg"
+    ],
+    "category": "",
+    "subcategory": "Meat No Guilt Biryani Bowls",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 7.88
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 7.88
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true,
+    "attribute_name": "veg"
+  },
+  {
+    "_key": "7780012",
+    "_id": "FID_GFFBRTBH1649829709/7780012",
+    "_rev": "_eUHGo0y---",
+    "item_id": "aaac1c0e-4ac9-4269-af5e-8950b90ec523",
+    "pos_item_id": "1240438385",
+    "selling_price": "485",
+    "price": "485.00",
+    "name": "Curate My Elite Paneer Biryani Combo [Serves 1]",
+    "display_name": "Curate My Elite Paneer Biryani Combo [Serves 1]",
+    "description": "Select from any of our 23 Spice Hyderabadi Veg Biryanis served with Mint Raita along with a Mini Deccan Paneer Appetizer (80 g), an Indulgent Gulab Jamun (2 pcs) and a refreshing 250 ml beverage of your choice",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_12_16_50_53_Ipl.jpg"
+    ],
+    "category": "",
+    "subcategory": "VIP Exclusive Biryani Combos",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 12.12
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 12.12
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true,
+    "attribute_name": "veg"
+  },
+  {
+    "_key": "9361557",
+    "_id": "FID_GFFBRTBH1649829709/9361557",
+    "_rev": "_eUHGo1K---",
+    "item_id": "c62d0fe5-c7fe-493d-b771-42e3f9068462",
+    "pos_item_id": "1246303972",
+    "selling_price": "325",
+    "price": "325.00",
+    "name": "Hyderabadi Signature Paneer Biryani Bowl",
+    "display_name": "Hyderabadi Signature Paneer Biryani Bowl",
+    "description": "From the Nizam's court with 50% extra paneer. Aromatic, slow cooked 23 spice Hyderabadi dum Biryani topped with juicy chunks of fresh paneer tossed in our signature Hyderabadi masala and garnished with crispy fried onions. A delectable bowl :) [Comes with Mint Raita, Serves 1, 500 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_12_16_55_34_Hyderabadi_paneer_bowl_.jpg"
+    ],
+    "category": "",
+    "subcategory": "Meat No Guilt Biryani Bowls",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 8.12
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 8.12
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true,
+    "attribute_name": "veg"
+  },
+  {
+    "_key": "7780027",
+    "_id": "FID_GFFBRTBH1649829709/7780027",
+    "_rev": "_eUHGo1i---",
+    "item_id": "27405fa6-0265-45c8-ad47-f72274207ccc",
+    "pos_item_id": "1240037451",
+    "selling_price": "275",
+    "price": "275.00",
+    "name": "Curry Leaf Paneer Tikka",
+    "display_name": "Curry Leaf Paneer Tikka",
+    "description": "Bheemavarma's special starter for Paneer lovers. The earthy flavor of curry leaves marry with flame grilled, drool worthy chunks of smoky Paneer Tikka in this unique veg appetizer created by our best minds [Serves 1, 160 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_12_16_19_09_Paneer_tikka.jpg"
+    ],
+    "category": "",
+    "subcategory": "Gourmet Deccan Starters",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 6.88
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 6.88
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true,
+    "attribute_name": "veg"
+  },
+  {
+    "_key": "9361612",
+    "_id": "FID_GFFBRTBH1649829709/9361612",
+    "_rev": "_eUHGo12---",
+    "item_id": "aee6d44b-65a5-406e-ae6e-f46108a6490f",
+    "pos_item_id": "1239314674",
+    "selling_price": "265",
+    "price": "265.00",
+    "name": "Southern Peppery Paneer",
+    "display_name": "Southern Peppery Paneer",
+    "description": "A happening veg starter of South India. Hot pepper masala with a burst of flavors tossed with juicy chunks of fresh Paneer for a lip smacking flavor and taste of quintessential South India [Serves 1, 160 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_12_16_26_53_Pepper_paneer.jpg"
+    ],
+    "category": "",
+    "subcategory": "Gourmet Deccan Starters",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 6.62
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 6.62
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true,
+    "attribute_name": "veg"
+  },
+  {
+    "_key": "9361602",
+    "_id": "FID_GFFBRTBH1649829709/9361602",
+    "_rev": "_eUHGo2O---",
+    "item_id": "b2f3a99f-b192-44a1-957a-ff41f3317d1d",
+    "pos_item_id": "1240037488",
+    "selling_price": "265",
+    "price": "265.00",
+    "name": "Zesty Paneer 65",
+    "display_name": "Zesty Paneer 65",
+    "description": "Hot, Sweet and Sour in one dish. Juicy chunks of fresh, deep fried Paneer sauteed in a zesty sauce and flavored with aromatics for a symphony of multiple flavors on each bite [Serves 1, 160 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_12_16_14_19_Paneer_65.jpg"
+    ],
+    "category": "",
+    "subcategory": "Gourmet Deccan Starters",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 6.62
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 6.62
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true,
+    "attribute_name": "veg"
+  },
+  {
+    "_key": "9361562",
+    "_id": "FID_GFFBRTBH1649829709/9361562",
+    "_rev": "_eUHGo2i---",
+    "item_id": "c29b00de-29f2-4a2c-9798-427b7a675360",
+    "pos_item_id": "1246303945",
+    "selling_price": "275",
+    "price": "275.00",
+    "name": "Hyderabadi Signature Paneer Biryani",
+    "display_name": "Hyderabadi Signature Paneer Biryani",
+    "description": "From the Nizam's court. Fragrant, slow dum cooked 23 spice Hyderabadi Biryani topped with tender chunks of juicy paneer cooked in our signature 23 spice blend Hyderabadi masala and garnished with crispy fried onions. Delectable indeed :) [Comes with Mint Raita, Serves 1, 500 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_12_15_54_24_Hyderabadi_paneer.jpg"
+    ],
+    "category": "",
+    "subcategory": "23 Spice Hyderabadi Biryani",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 6.88
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 6.88
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true,
+    "attribute_name": "veg"
+  },
+  {
+    "_key": "9361592",
+    "_id": "FID_GFFBRTBH1649829709/9361592",
+    "_rev": "_eUHGo26---",
+    "item_id": "acfd451a-6f7d-46d5-95ac-1cfb534a2bc0",
+    "pos_item_id": "1239317061",
+    "selling_price": "265",
+    "price": "265.00",
+    "name": "Bheemavarma Special Paneer Biryani",
+    "display_name": "Bheemavarma Special Paneer Biryani",
+    "description": "From our best minds to your plate. Juicy chunks of fresh paneer sauteed in our special masala rich with spices and flavors served on top of slow cooked, aromatic 23 spice dum Biryani that makes you drool. A must try :) [Comes with Mint Raita, Serves 1, 500 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_12_16_00_36_Andhra_special_paneer.jpg"
+    ],
+    "category": "",
+    "subcategory": "23 Spice Hyderabadi Biryani",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 6.62
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 6.62
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true,
+    "attribute_name": "veg"
+  },
+  {
+    "_key": "9361607",
+    "_id": "FID_GFFBRTBH1649829709/9361607",
+    "_rev": "_eUHGo3S---",
+    "item_id": "42122cb0-892a-439f-b424-65db2cb11849",
+    "pos_item_id": "1240037989",
+    "selling_price": "275",
+    "price": "275.00",
+    "name": "Rustic Chettinad Paneer Biryani",
+    "display_name": "Rustic Chettinad Paneer Biryani",
+    "description": "Paneer x Chettinad. 23 spice dum Biryani made with fragrant Basmati rice cooked over a slow flame topped with fresh chunks of Paneer tossed in a rustic Chettinad masala packed with flavor and fragrance of a curated spice blend. A mouth watering combination :) [Comes with Mint Raita, Serves 1, 500 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_12_15_57_27_Chettinad_paneer.jpg"
+    ],
+    "category": "",
+    "subcategory": "23 Spice Hyderabadi Biryani",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 6.88
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 6.88
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true,
+    "attribute_name": "veg"
+  },
+  {
+    "_key": "11229168",
+    "_id": "FID_GFFBRTBH1649829709/11229168",
+    "_rev": "_eUHGo3m---",
+    "item_id": "fc12a96f-e2d1-4d5d-b92d-05c5abe3419c",
+    "pos_item_id": "1248395143",
+    "selling_price": "2075",
+    "price": "2075.00",
+    "name": "Hyderabadi Boneless Chicken Bucket Biryani",
+    "display_name": "Hyderabadi Boneless Chicken Bucket Biryani",
+    "description": "The Nizam's crown jewel in a bucket to celebrate the good times. Tender chunks of juicy boneless chicken cooked in our signature 23 spice blend Hyderabadi masala served on top of fragrant, slow dum cooked 23 spice Hyderabadi Biryani garnished with crispy fried onions. You know you want your bucket :) [Comes with Mint Raita, Serves 8, 4 kg]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_06_11_15_31_15_Hyderabadi_chicken_biryani.jpg"
+    ],
+    "category": "",
+    "subcategory": "#hangout Bucket Biryani",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "attribute_name": "non-veg",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 51.88
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 51.88
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true
+  },
+  {
+    "_key": "11229173",
+    "_id": "FID_GFFBRTBH1649829709/11229173",
+    "_rev": "_eUHGo4C---",
+    "item_id": "0b42975f-cb22-4188-b74e-0778f7c7e9fa",
+    "pos_item_id": "1248395145",
+    "selling_price": "1095",
+    "price": "1095.00",
+    "name": "Boneless Pepper Chicken Family Pack Biryani",
+    "display_name": "Boneless Pepper Chicken Family Pack Biryani",
+    "description": "Your favorite South Indian favorite in a family pack. Juicy chunks of fresh boneless Chicken tossed in our authentic pepper masala served on top of slow cooked, aromatic dum Biryani laden with 23 spices packing a powerful punch of heat, spice and flavor. Truly Pepper-licious family pack :) [Comes with Mint Raita, Serves 4, 2 kg]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_06_11_15_24_19_Pepper_chicken_biryani.jpg"
+    ],
+    "category": "",
+    "subcategory": "#eattogether Family Pack Biryani",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "attribute_name": "non-veg",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 27.38
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 27.38
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true
+  },
+  {
+    "_key": "11229178",
+    "_id": "FID_GFFBRTBH1649829709/11229178",
+    "_rev": "_eUHGo4a---",
+    "item_id": "f475045f-85fb-4c1f-840e-891cb79e65b2",
+    "pos_item_id": "1248395153",
+    "selling_price": "1075",
+    "price": "1075.00",
+    "name": "Bheemavarma Boneless Chicken Family Pack Biryani",
+    "display_name": "Bheemavarma Boneless Chicken Family Pack Biryani",
+    "description": "Our Chef's Special Biryani in a family pack. Fragrant, slow cooked 23 spice dum Biryani served with tender chunks of boneless chicken tossed in our special masala rich with spices and flavors that make you drool. Why resist? Grab your family pack :) [Comes with Mint Raita, Serves 4, 2 kg]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_06_11_15_22_16_Andhra_boneless_chicken_biryani.jpg"
+    ],
+    "category": "",
+    "subcategory": "#eattogether Family Pack Biryani",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "attribute_name": "non-veg",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 26.88
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 26.88
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true
+  },
+  {
+    "_key": "9361617",
+    "_id": "FID_GFFBRTBH1649829709/9361617",
+    "_rev": "_eUHGo4u---",
+    "item_id": "33de343a-d302-4aef-8967-07d9b2f5791b",
+    "pos_item_id": "1240433949",
+    "selling_price": "575",
+    "price": "575.00",
+    "name": "Choose My VIP Double Chicken Biryani Combo [Serves 2]",
+    "display_name": "Choose My VIP Double Chicken Biryani Combo [Serves 2]",
+    "description": "Pick any 2 of our 23 Spice Hyderabadi Chicken Biryanis served with Mint Raita along with a 750 ml refreshing beverage of your choice",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_08_11_09_50_1651986309843.jpg"
+    ],
+    "category": "",
+    "subcategory": "VIP Exclusive Biryani Combos",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 14.38
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 14.38
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true,
+    "attribute_name": "non-veg"
+  },
+  {
+    "_key": "11229187",
+    "_id": "FID_GFFBRTBH1649829709/11229187",
+    "_rev": "_eUHGo5G---",
+    "item_id": "af2cb872-c891-4e25-9f23-3961cf3de5d9",
+    "pos_item_id": "1248029830",
+    "selling_price": "345",
+    "price": "345.00",
+    "name": "Boneless Pepper Chicken Biryani Bowl",
+    "display_name": "Boneless Pepper Chicken Biryani Bowl",
+    "description": "An evergreen South Indian favorite with 50% extra chicken. Juicy chunks of fresh boneless Chicken tossed in our authentic pepper masala served on top of slow cooked, aromatic dum Biryani laden with 23 spices packing a powerful punch of heat, spice and flavor. Truly Pepper-licious bowl :) [Comes with Mint Raita, Serves 1, 500 g]Serves 1, 500 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_06_02_22_50_57_Pepper_chicken_bowl.jpg"
+    ],
+    "category": "",
+    "subcategory": "Meat No Guilt Biryani Bowls",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "attribute_name": "non-veg",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 8.62
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 8.62
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true
+  },
+  {
+    "_key": "11229192",
+    "_id": "FID_GFFBRTBH1649829709/11229192",
+    "_rev": "_eUHGo5e---",
+    "item_id": "2277b4c7-8c5c-4140-9196-795e69a3ea60",
+    "pos_item_id": "1248029831",
+    "selling_price": "335",
+    "price": "335.00",
+    "name": "Chettinad Boneless Chicken Biryani Bowl",
+    "display_name": "Chettinad Boneless Chicken Biryani Bowl",
+    "description": "The eternal favorite of Chettinad cuisine with 50% extra chicken. Succulent pieces of tender chicken marinated and cooked in our traditional Chettinad masala served on top of aromatic, slow cooked 23 spice dum Biryani packed with flavor and fragrance. No one can eat just one bowl :) [Comes with Mint Raita, Serves 1, 500 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_06_02_22_48_03_Chicken_Chetinnad_bowl.jpg"
+    ],
+    "category": "",
+    "subcategory": "Meat No Guilt Biryani Bowls",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "attribute_name": "non-veg",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 8.38
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 8.38
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true
+  },
+  {
+    "_key": "9361627",
+    "_id": "FID_GFFBRTBH1649829709/9361627",
+    "_rev": "_eUHGo52---",
+    "item_id": "7ecb68f6-e440-497c-9d1c-2c263119a9ca",
+    "pos_item_id": "1238326686",
+    "selling_price": "325",
+    "price": "325.00",
+    "name": "Bheemavarma Boneless Chicken Biryani Bowl",
+    "display_name": "Bheemavarma Boneless Chicken Biryani Bowl",
+    "description": "Our Chef's Special with 50% extra chicken. Fragrant, slow cooked 23 spice dum Biryani served with tender chunks of boneless chicken tossed in our special masala rich with spices and flavors that make you drool. Why resist? Grab your bowl :) [Comes with Mint Raita, Serves 1, 500 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_08_11_15_14_andhra_boneless.jpg"
+    ],
+    "category": "",
+    "subcategory": "Meat No Guilt Biryani Bowls",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 8.12
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 8.12
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true,
+    "attribute_name": "non-veg"
+  },
+  {
+    "_key": "9361677",
+    "_id": "FID_GFFBRTBH1649829709/9361677",
+    "_rev": "_eUHGo6O---",
+    "item_id": "d80d9041-fef8-4e71-ab19-3ad684f1edca",
+    "pos_item_id": "1239316597",
+    "selling_price": "295",
+    "price": "295.00",
+    "name": "Boneless Pepper Chicken Biryani",
+    "display_name": "Boneless Pepper Chicken Biryani",
+    "description": "An evergreen South Indian favorite. Juicy chunks of fresh boneless Chicken tossed in our authentic pepper masala served on top of slow cooked, aromatic dum Biryani laden with 23 spices packing a powerful punch of heat, spice and flavor. Truly Pepper-licious :) [Comes with Mint Raita, Serves 1, 500 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_08_11_00_31_1651986309872.jpg"
+    ],
+    "category": "",
+    "subcategory": "23 Spice Hyderabadi Biryani",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 7.38
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 7.38
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true,
+    "attribute_name": "non-veg"
+  },
+  {
+    "_key": "9361622",
+    "_id": "FID_GFFBRTBH1649829709/9361622",
+    "_rev": "_eUHGo66---",
+    "item_id": "89266963-856b-4f1d-9df3-661d4971d9bb",
+    "pos_item_id": "1240438386",
+    "selling_price": "495",
+    "price": "495.00",
+    "name": "Curate My Elite Chicken Biryani Combo [Serves 1]",
+    "display_name": "Curate My Elite Chicken Biryani Combo [Serves 1]",
+    "description": "Select from any of our 23 Spice Hyderabadi Chicken Biryanis served with Mint Raita along with a Mini Deccan Chicken Appetizer (80 g), an Indulgent Gulab Jamun (2 pcs) and a refreshing 250 ml beverage of your choice",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_08_11_11_19_1651986309852.jpg"
+    ],
+    "category": "",
+    "subcategory": "VIP Exclusive Biryani Combos",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 12.38
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 12.38
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true,
+    "attribute_name": "non-veg"
+  },
+  {
+    "_key": "9361632",
+    "_id": "FID_GFFBRTBH1649829709/9361632",
+    "_rev": "_eUHGo7S---",
+    "item_id": "497fc561-e1b9-4fa5-ac23-0ca1e895322c",
+    "pos_item_id": "1246303971",
+    "selling_price": "335",
+    "price": "335.00",
+    "name": "Hyderabadi Boneless Chicken Biryani Bowl",
+    "display_name": "Hyderabadi Boneless Chicken Biryani Bowl",
+    "description": "The Nizam's crown jewel with 50% extra chicken. Juicy chunks of boneless chicken cooked in our signature 23 spice blend Hyderabadi masala served on top of aromatic, slow cooked 23 spice Hyderabadi dum Biryani garnished with crispy fried onions. You know you want your bowl :) [Comes with Mint Raita, Serves 1, 500 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_08_11_13_09_Hydera.jpg"
+    ],
+    "category": "",
+    "subcategory": "Meat No Guilt Biryani Bowls",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 8.38
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 8.38
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true,
+    "attribute_name": "non-veg"
+  },
+  {
+    "_key": "9361667",
+    "_id": "FID_GFFBRTBH1649829709/9361667",
+    "_rev": "_eUHGo7m---",
+    "item_id": "639d8b63-34db-462b-be53-7fdfb1a96ec9",
+    "pos_item_id": "1238326684",
+    "selling_price": "275",
+    "price": "275.00",
+    "name": "Southern Pepper Chicken [Boneless]",
+    "display_name": "Southern Pepper Chicken [Boneless]",
+    "description": "A classic starter loved by all of South India. Hot pepper masala with a myriad of flavors tossed with tender chunks of juicy fried boneless Chicken for a lip smacking flavor and taste of quintessential South India [Serves 1, 160 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_08_11_08_03_1651986310045.jpg"
+    ],
+    "category": "",
+    "subcategory": "Gourmet Deccan Starters",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 6.88
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 6.88
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true,
+    "attribute_name": "non-veg"
+  },
+  {
+    "_key": "9361652",
+    "_id": "FID_GFFBRTBH1649829709/9361652",
+    "_rev": "_eUHGo8----",
+    "item_id": "3e41a845-4a2b-41e7-82a6-72fb64f4c83c",
+    "pos_item_id": "1239316596",
+    "selling_price": "275",
+    "price": "275.00",
+    "name": "Bheemavarma Boneless Chicken Biryani",
+    "display_name": "Bheemavarma Boneless Chicken Biryani",
+    "description": "Our Chef's Special Biryani. Slow cooked, aromatic 23 spice dum Biryani topped with juicy chunks of boneless chicken sauteed in our special masala rich with spices and flavors that make you drool. Why resist? Go for it :) [Comes with Mint Raita, Serves 1, 500 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_08_11_02_30_andhra_.jpg"
+    ],
+    "category": "",
+    "subcategory": "23 Spice Hyderabadi Biryani",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 6.88
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 6.88
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true,
+    "attribute_name": "non-veg"
+  },
+  {
+    "_key": "9361637",
+    "_id": "FID_GFFBRTBH1649829709/9361637",
+    "_rev": "_eUHGo8W---",
+    "item_id": "135c7415-6d55-4ac3-8292-d7f858ecc0ea",
+    "pos_item_id": "1246303521",
+    "selling_price": "285",
+    "price": "285.00",
+    "name": "Hyderabadi Boneless Chicken Biryani",
+    "display_name": "Hyderabadi Boneless Chicken Biryani",
+    "description": "The Nizam's crown jewel. Tender chunks of juicy boneless chicken cooked in our signature 23 spice blend Hyderabadi masala served on top of fragrant, slow dum cooked 23 spice Hyderabadi Biryani garnished with crispy fried onions. You know you want it :) [Comes with Mint Raita, Serves 1, 500 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_08_10_54_20_hyder.jpg"
+    ],
+    "category": "",
+    "subcategory": "23 Spice Hyderabadi Biryani",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 7.12
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 7.12
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true,
+    "attribute_name": "non-veg"
+  },
+  {
+    "_key": "9361657",
+    "_id": "FID_GFFBRTBH1649829709/9361657",
+    "_rev": "_eUHGo8q---",
+    "item_id": "bc3440d0-ffef-48b6-b3e6-edb749a889ee",
+    "pos_item_id": "1240037486",
+    "selling_price": "275",
+    "price": "275.00",
+    "name": "Bengaluru Chicken Kabab [Boneless]",
+    "display_name": "Bengaluru Chicken Kabab [Boneless]",
+    "description": "An eternal favorite of Bengaluru. Our spicy, tangy red masala marinates tender chunks of juicy Chicken, deep fried for a crispy flavor reflecting the heart of cosmopolitan Bengaluru [Serves 1, 160 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_08_11_04_27_1651986310005.jpg"
+    ],
+    "category": "",
+    "subcategory": "Gourmet Deccan Starters",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 6.88
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 6.88
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true,
+    "attribute_name": "non-veg"
+  },
+  {
+    "_key": "9361662",
+    "_id": "FID_GFFBRTBH1649829709/9361662",
+    "_rev": "_eUHGo9C---",
+    "item_id": "4f7c6c62-9f47-45d3-93b3-345f1cb57d70",
+    "pos_item_id": "1239316598",
+    "selling_price": "285",
+    "price": "285.00",
+    "name": "Chettinad Boneless Chicken Biryani",
+    "display_name": "Chettinad Boneless Chicken Biryani",
+    "description": "The eternal favorite of Chettinad cuisine. Succulent pieces of tender chicken marinated and cooked in our traditional Chettinad masala served on top of aromatic, slow cooked 23 spice dum Biryani packed with flavor and fragrance. No one can eat just once :) [Comes with Mint Raita, Serves 1, 500 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_08_10_59_56_chetti.jpg"
+    ],
+    "category": "",
+    "subcategory": "23 Spice Hyderabadi Biryani",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 7.12
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 7.12
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true,
+    "attribute_name": "non-veg"
+  },
+  {
+    "_key": "9361642",
+    "_id": "FID_GFFBRTBH1649829709/9361642",
+    "_rev": "_eUHGo9a---",
+    "item_id": "90c5f76c-e68b-4ee7-95b7-0467963fb827",
+    "pos_item_id": "1245314352",
+    "selling_price": "275",
+    "price": "275.00",
+    "name": "Guntur Boneless Chicken Biryani",
+    "display_name": "Guntur Boneless Chicken Biryani",
+    "description": "A culinary treasure of Guntur. Dum cooked on a slow flame with 23 spices, this flavor packed Biryani made with fragrant basmati rice is topped with succulent chunks of tender boneless chicken cooked in our spicy Guntur masala rich in flavor and tradition. This one surely aims to please :) [Comes with Mint Raita, Serves 1, 500 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_08_10_55_40_guntur.jpg"
+    ],
+    "category": "",
+    "subcategory": "23 Spice Hyderabadi Biryani",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 6.88
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 6.88
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true,
+    "attribute_name": "non-veg"
+  },
+  {
+    "_key": "9361672",
+    "_id": "FID_GFFBRTBH1649829709/9361672",
+    "_rev": "_eUHGo9y---",
+    "item_id": "1ffabfea-3832-44a4-bd30-f2ecf11edbc7",
+    "pos_item_id": "1239316600",
+    "selling_price": "275",
+    "price": "275.00",
+    "name": "Nellore Boneless Chicken Biryani",
+    "display_name": "Nellore Boneless Chicken Biryani",
+    "description": "Nellore style Biryani de-constructed with love. Fragrant Basmati rice cooked on a slow dum with a unique blend of 23 spices topped with juicy chicken cooked in our Nellore masala loaded with fresh aromatics and spices. Our twist on an all time classic :) [Comes with Mint Raita, Serves 1, 500 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_08_10_57_29_1651986309993.jpg"
+    ],
+    "category": "",
+    "subcategory": "23 Spice Hyderabadi Biryani",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 6.88
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 6.88
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true,
+    "attribute_name": "non-veg"
+  },
+  {
+    "_key": "10417847",
+    "_id": "FID_GFFBRTBH1649829709/10417847",
+    "_rev": "_eUHGp-C---",
+    "item_id": "b96e3afe-2244-4ec2-85d9-1455bc6c600c",
+    "pos_item_id": "1247109860",
+    "selling_price": "95",
+    "price": "95.00",
+    "name": "Lemon Iced Tea",
+    "display_name": "Lemon Iced Tea",
+    "description": "Refreshing Iced Tea with the zing of lemon to rejuvenate your senses [Serves 1, 250 ml]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_16_15_05_37_lemon_iced_tea_2_.jpg"
+    ],
+    "category": "",
+    "subcategory": "Drinks & Desserts",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "attribute_name": "veg",
+    "item_tax": [
+      {
+        "id": "77892",
+        "name": "CGST",
+        "amount": 2.38
+      },
+      {
+        "id": "77893",
+        "name": "SGST",
+        "amount": 2.38
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": false
+  },
+  {
+    "_key": "10417852",
+    "_id": "FID_GFFBRTBH1649829709/10417852",
+    "_rev": "_eUHGp-C--A",
+    "item_id": "640c81bf-e321-49b6-a52a-330fdb9a32c5",
+    "pos_item_id": "1247109861",
+    "selling_price": "95",
+    "price": "95.00",
+    "name": "Masala Mint Lemonade",
+    "display_name": "Masala Mint Lemonade",
+    "description": "Invigorating summer cooler with refreshing mint flavour and a dash of indian spices [Serves 1, 250 ml]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_16_15_02_17_Masala_mint_lemonade_2_.jpg"
+    ],
+    "category": "",
+    "subcategory": "Drinks & Desserts",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "attribute_name": "veg",
+    "item_tax": [
+      {
+        "id": "77892",
+        "name": "CGST",
+        "amount": 2.38
+      },
+      {
+        "id": "77893",
+        "name": "SGST",
+        "amount": 2.38
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": false
+  },
+  {
+    "_key": "10417881",
+    "_id": "FID_GFFBRTBH1649829709/10417881",
+    "_rev": "_eUHGp-G---",
+    "item_id": "4e149e6b-e255-431f-8442-33abc3715a23",
+    "pos_item_id": "1247111693",
+    "selling_price": "145",
+    "price": "145.00",
+    "name": "Curry Leaf Paneer Tikka [Mini]",
+    "display_name": "Curry Leaf Paneer Tikka [Mini]",
+    "description": "Bheemavarma's special mini starter for Paneer lovers. The earthy flavor of curry leaves marry with flame grilled, drool worthy chunks of smoky Paneer Tikka in this unique mini veg appetizer created by our best minds [Serves 1, 80 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_12_20_00_07_Paneer_tikka.jpg"
+    ],
+    "category": "",
+    "subcategory": "Sizzling Short Eats (starting @ Rs. 125)",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "attribute_name": "veg",
+    "item_tax": [
+      {
+        "id": "77892",
+        "name": "CGST",
+        "amount": 3.62
+      },
+      {
+        "id": "77893",
+        "name": "SGST",
+        "amount": 3.62
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": false
+  },
+  {
+    "_key": "7780022",
+    "_id": "FID_GFFBRTBH1649829709/7780022",
+    "_rev": "_eUHGp-G--A",
+    "item_id": "80be080d-6a65-4590-8bab-bc27f89756c7",
+    "pos_item_id": "1238326698",
+    "selling_price": "85",
+    "price": "85.00",
+    "name": "Royal Bread Delight",
+    "display_name": "Royal Bread Delight",
+    "description": "Deep fried slices of fresh milky bread soaked in heavenly flavored syrup and topped with a rich Rabdi and almond slivers which deliciously melt in your mouth on each sweet bite [Serves 1, 80 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2021_12_03_17_22_14_Rabdi_Bread_Pudding_100_g_L.jpg"
+    ],
+    "category": "",
+    "subcategory": "Drinks & Desserts",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "77892",
+        "name": "CGST",
+        "amount": 2.12
+      },
+      {
+        "id": "77893",
+        "name": "SGST",
+        "amount": 2.12
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": false,
+    "attribute_name": "veg"
+  },
+  {
+    "_key": "10417894",
+    "_id": "FID_GFFBRTBH1649829709/10417894",
+    "_rev": "_eUHGp-G--C",
+    "item_id": "1fa6b84c-2d88-40cc-916c-11763bcbfded",
+    "pos_item_id": "1247111689",
+    "selling_price": "135",
+    "price": "135.00",
+    "name": "Hyderabadi Veg Momos",
+    "display_name": "Hyderabadi Veg Momos",
+    "description": "Hyderabad meets Momos. Scrumptuous Chicken Momos heartily mingles with our spice rich hyderabadi masala in this mouth watering fusion fare [Serves 1, 6 pcs]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_12_20_06_40_Hyderabadi_veg_momos.jpg"
+    ],
+    "category": "",
+    "subcategory": "Sizzling Short Eats (starting @ Rs. 125)",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "attribute_name": "veg",
+    "item_tax": [
+      {
+        "id": "77892",
+        "name": "CGST",
+        "amount": 3.38
+      },
+      {
+        "id": "77893",
+        "name": "SGST",
+        "amount": 3.38
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": false
+  },
+  {
+    "_key": "9361571",
+    "_id": "FID_GFFBRTBH1649829709/9361571",
+    "_rev": "_eUHGp-K---",
+    "item_id": "df13f04a-c0ea-498d-86e6-e08acd4d4833",
+    "pos_item_id": "1238326699",
+    "selling_price": "45",
+    "price": "45.00",
+    "name": "Tangy Mint Raita",
+    "display_name": "Tangy Mint Raita",
+    "description": "Rich and thick spiced tangy yoghurt with the refreshing flavor of ground mint leaves . A perfect accompaniment to our signature Biryanis [Serves 1, 100 ml]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2021_12_03_17_56_09_Onion___Cucumber_Raita_L.jpg"
+    ],
+    "category": "",
+    "subcategory": "Drinks & Desserts",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "77892",
+        "name": "CGST",
+        "amount": 1.12
+      },
+      {
+        "id": "77893",
+        "name": "SGST",
+        "amount": 1.12
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": false,
+    "attribute_name": "veg"
+  },
+  {
+    "_key": "10417907",
+    "_id": "FID_GFFBRTBH1649829709/10417907",
+    "_rev": "_eUHGp-K--A",
+    "item_id": "19c9a8c6-5065-4af3-8f85-7a9dd1ee62a5",
+    "pos_item_id": "1247111688",
+    "selling_price": "125",
+    "price": "125.00",
+    "name": "Andhra Spiced French Fries",
+    "display_name": "Andhra Spiced French Fries",
+    "description": "Crispy on the outside, soft on the inside. Golden crispy fried potato fingers generously sprinkled with our signature Andhra spice for a ultimate dance of flavor and texture [Serves 1, 120 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_12_20_09_21_Andhra_spiced_French_fries.jpg"
+    ],
+    "category": "",
+    "subcategory": "Sizzling Short Eats (starting @ Rs. 125)",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "attribute_name": "veg",
+    "item_tax": [
+      {
+        "id": "77892",
+        "name": "CGST",
+        "amount": 3.12
+      },
+      {
+        "id": "77893",
+        "name": "SGST",
+        "amount": 3.12
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": false
+  },
+  {
+    "_key": "10417940",
+    "_id": "FID_GFFBRTBH1649829709/10417940",
+    "_rev": "_eUHGp-K--C",
+    "item_id": "27ff8cb3-783e-48de-a64a-7c7e2f261cf9",
+    "pos_item_id": "1247111686",
+    "selling_price": "145",
+    "price": "145.00",
+    "name": "Chettinad Chicken Kheema Balls",
+    "display_name": "Chettinad Chicken Kheema Balls",
+    "description": "Our take on the well loved short eat. Breaded Chicken morsels golden fried to crispy perfection and dressed with a curated blend of chettinad spices and topped with curry leaves [Serves 1, 12 pcs]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_12_20_14_40_Chettinad_nugget.jpg"
+    ],
+    "category": "",
+    "subcategory": "Sizzling Short Eats (starting @ Rs. 125)",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "attribute_name": "non-veg",
+    "item_tax": [
+      {
+        "id": "77892",
+        "name": "CGST",
+        "amount": 3.62
+      },
+      {
+        "id": "77893",
+        "name": "SGST",
+        "amount": 3.62
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": false
+  },
+  {
+    "_key": "10417961",
+    "_id": "FID_GFFBRTBH1649829709/10417961",
+    "_rev": "_eUHGp-O---",
+    "item_id": "28b84ee2-56c3-4928-82c7-0545255d902c",
+    "pos_item_id": "1247111692",
+    "selling_price": "145",
+    "price": "145.00",
+    "name": "Curry Leaf Chicken Tikka [Mini]",
+    "display_name": "Curry Leaf Chicken Tikka [Mini]",
+    "description": "Our Chef's Special mini starter. Flame grilled, drool worthy chunks of smoky Chicken Tikka marry with the awesome flavor of curry leaves in this unique mini appetizer created by our Masterchef [Serves 1, 80 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_12_20_03_57_1651986310031.jpg"
+    ],
+    "category": "",
+    "subcategory": "Sizzling Short Eats (starting @ Rs. 125)",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "attribute_name": "non-veg",
+    "item_tax": [
+      {
+        "id": "77892",
+        "name": "CGST",
+        "amount": 3.62
+      },
+      {
+        "id": "77893",
+        "name": "SGST",
+        "amount": 3.62
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": false
+  },
+  {
+    "_key": "10417974",
+    "_id": "FID_GFFBRTBH1649829709/10417974",
+    "_rev": "_eUHGp-O--A",
+    "item_id": "22053df4-b705-4747-ac56-4e58daae2af2",
+    "pos_item_id": "1247111687",
+    "selling_price": "145",
+    "price": "145.00",
+    "name": "Hyderabadi Chicken Momos",
+    "display_name": "Hyderabadi Chicken Momos",
+    "description": "Hyderabad meets Momos. Our spice laden hyderabadi masala heartily mingles with luscious Chicken Momos for a powerful hit of flavor and spice [Serves 1, 6 pcs]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_12_20_12_24_Hyderabadi_chicken_momos.jpg"
+    ],
+    "category": "",
+    "subcategory": "Sizzling Short Eats (starting @ Rs. 125)",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "attribute_name": "non-veg",
+    "item_tax": [
+      {
+        "id": "77892",
+        "name": "CGST",
+        "amount": 3.62
+      },
+      {
+        "id": "77893",
+        "name": "SGST",
+        "amount": 3.62
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": false
+  },
+  {
+    "_key": "7780017",
+    "_id": "FID_GFFBRTBH1649829709/7780017",
+    "_rev": "_eUHGp-O--C",
+    "item_id": "eefad4e7-0fcd-4ddf-a053-3e137a548fe9",
+    "pos_item_id": "1240087217",
+    "selling_price": "99",
+    "price": "99.00",
+    "name": "Decadent Milk Rabdi [100 Ml]",
+    "display_name": "Decadent Milk Rabdi [100 Ml]",
+    "description": "Sweetened flavored milk reduced to a thick consistency for a rich flavor and topped with almond slivers that explodes with flavor on each slurp",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2021_12_03_17_20_55_Rabdi_2.jpg"
+    ],
+    "category": "",
+    "subcategory": "Indulgent Desserts",
+    "in_stock": true,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": "",
+    "item_packing_charge": "0",
+    "is_active": false
+  },
+  {
+    "_key": "7779975",
+    "_id": "FID_GFFBRTBH1649829709/7779975",
+    "_rev": "_eUHGp-S---",
+    "item_id": "d77ac580-7ca7-4911-9f90-c1014fb85dfd",
+    "pos_item_id": "1238326697",
+    "selling_price": "85",
+    "price": "85.00",
+    "name": "Indulgent Gulab Jamun",
+    "display_name": "Indulgent Gulab Jamun",
+    "description": "Deep fried gentle balls of milk soaked in heavenly flavored syrup and topped with almond slivers which deliciously melt in your mouth on each sweet bite [Serves 1, 2 pcs]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2021_12_03_17_24_13_Jamun_Z.jpg"
+    ],
+    "category": "",
+    "subcategory": "Drinks & Desserts",
+    "in_stock": false,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "77892",
+        "name": "CGST",
+        "amount": 2.12
+      },
+      {
+        "id": "77893",
+        "name": "SGST",
+        "amount": 2.12
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": false,
+    "attribute_name": "veg"
+  },
+  {
+    "_key": "9361647",
+    "_id": "FID_GFFBRTBH1649829709/9361647",
+    "_rev": "_eaJM8IW---",
+    "item_id": "d343f912-b43e-4e57-b797-69dd3c307633",
+    "pos_item_id": "1238326685",
+    "selling_price": "285",
+    "price": "285.00",
+    "name": "Curry Leaf Chicken Tikka [Boneless]",
+    "display_name": "Curry Leaf Chicken Tikka [Boneless]",
+    "description": "Our Chef's Special starter. Flame grilled, drool worthy chunks of smoky Chicken Tikka marry with the awesome flavor of curry leaves in this unique appetizer created by our Masterchef [Serves 1, 160 g]",
+    "images": [
+      "https://online-logo.s3-ap-southeast-1.amazonaws.com/homewebsite/56449/thumb_2022_05_08_11_05_51_tikka.jpg"
+    ],
+    "category": "",
+    "subcategory": "Gourmet Deccan Starters",
+    "in_stock": false,
+    "stock_in_hand": 2,
+    "weight": "",
+    "weight_unit": "",
+    "on_sale_flag": "",
+    "discount_percent": "",
+    "rating": "",
+    "reviews": "",
+    "tags": [],
+    "delivery_timeline": "",
+    "variation_name": "",
+    "variation_id": "",
+    "item_available_range": "",
+    "timings": "",
+    "currency": "INR",
+    "provider_name": "",
+    "store_id": "GFFBRTBH1649829709",
+    "gst_liability": "",
+    "item_tax": [
+      {
+        "id": "93790",
+        "name": "CGST",
+        "amount": 7.12
+      },
+      {
+        "id": "119179",
+        "name": "SGST",
+        "amount": 7.12
+      }
+    ],
+    "item_packing_charge": "0",
+    "is_active": true,
+    "attribute_name": "non-veg"
+  }
+]
